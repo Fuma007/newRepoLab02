@@ -2,7 +2,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Anawat Jandee 672115049 #
+# Heading 1 #
 
 
     Markup :  # Heading 1 #
